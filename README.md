@@ -1,18 +1,18 @@
-# Getting Started with Create React App
+# Curso React 18 - Hcode
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto com os exemplos e exercícios do curso de React 18 da Hcode.
 
-## Available Scripts
+## Scripts disponíveis
 
-In the project directory, you can run:
+Neste diretório você pode rodar os comandos abaixo:
 
-### `npm start`
+### `npm run dev`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Para o modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Esta página será atualizada se você editá-la.\
+Você também poderá ver erros de formatação no terminal do seu editor.
 
 ### `npm test`
 
